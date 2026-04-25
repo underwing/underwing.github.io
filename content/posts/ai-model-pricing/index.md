@@ -4,7 +4,6 @@ date = "2026-04-10T00:00:00+08:00"
 author = "Amos"
 tags = ["AI", "大模型", "成本优化"]
 description = "在大模型编程套餐中，按请求、按 Token、按 Credits 三种计费方式的核心区别在哪里？本文为你详细解析。"
-showFullContent = true
 readingTime = true
 +++
 

@@ -4,7 +4,6 @@ date = "2026-04-25T18:31:14+08:00"
 author = "Amos"
 tags = ["随笔"]
 description = "我的第一篇博客"
-showFullContent = true
 readingTime = true
 +++
 

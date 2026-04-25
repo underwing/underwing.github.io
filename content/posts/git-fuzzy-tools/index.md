@@ -4,7 +4,6 @@ date = "2026-02-23T00:00:00+08:00"
 author = "Amos"
 tags = ["Git", "CLI", "效率工具"]
 description = "交互式文件选择工具可以大幅提升 Git 命令行工作效率，通过模糊搜索和可视化界面快速选择文件进行操作。"
-showFullContent = true
 readingTime = true
 +++
 

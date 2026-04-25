@@ -4,7 +4,6 @@ date = "2026-04-07T00:00:00+08:00"
 author = "Amos"
 tags = ["AI", "工具对比", "开发效率"]
 description = "2025-2026 年，OpenAI 和 Anthropic 先后推出了面向开发者的 AI 编程助手：OpenAI Codex 和 Claude Code。本文从架构、性能、定价、安全等维度进行全面对比。"
-showFullContent = true
 readingTime = true
 +++
 

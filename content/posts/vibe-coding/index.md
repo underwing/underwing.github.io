@@ -4,7 +4,6 @@ date = "2026-04-10T00:00:00+08:00"
 author = "Amos"
 tags = ["AI", "编程范式"]
 description = "Vibe Coding 是一种新兴的开发范式，核心在于不再亲手编写一行行代码，而是通过与 AI 交流感觉和意图来开发软件。"
-showFullContent = true
 readingTime = true
 +++
 
@@ -34,4 +33,4 @@ readingTime = true
 - **效率革命**：资深程序员从"打字员"变成了"导演"或"审查员"。
 - **潜在风险**：如果完全不看代码，可能会埋下安全隐患或难以维护的"黑盒"代码。
 
-想试试吗？有想法的话可以帮你梳理提示词（Prompt）。
+
