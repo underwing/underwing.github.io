@@ -1,0 +1,33 @@
+baseurl = "https://underwing.github.io/"
+languageCode = "zh-cn"
+title = "Amos 的博客"
+theme = "hugo-theme-terminal"
+pagination.pagerSize = 5
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = false
+  subtitle = "技术与感悟，记录生活"
+  readMore = "阅读更多"
+  readOtherPosts = "其他文章"
+  Logo = { LogoHomeLink = "/", logoText = "Blog" }
+
+[languages]
+  [languages.zh]
+    title = "Amos 的博客"
+    copyright = ""
+
+    [languages.zh.menu]
+      [[languages.zh.menu.main]]
+        identifier = "about"
+        name = "关于"
+        url = "/about"
+      [[languages.zh.menu.main]]
+        identifier = "posts"
+        name = "文章"
+        url = "/posts"

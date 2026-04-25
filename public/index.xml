@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amos 的博客</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Amos 的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 25 Apr 2026 18:31:14 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 25 Apr 2026 18:31:14 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;这是我的第一篇博客文章。&lt;/p&gt;&#xA;&lt;h2 id=&#34;为什么写博客&#34;&gt;为什么写博客？&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;记录思考&lt;/strong&gt; - 把学到的知识写下来，加深理解&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;分享经验&lt;/strong&gt; - 希望对别人有帮助&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;沉淀积累&lt;/strong&gt; - 知识需要沉淀，才能成为自己的&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;技术栈&#34;&gt;技术栈&lt;/h2&gt;&#xA;&lt;p&gt;这个博客使用 Hugo 构建，托管在 GitHub Pages 上，完全免费！&lt;/p&gt;&#xA;&lt;p&gt;接下来我会分享一些技术文章和生活感悟，欢迎关注。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 25 Apr 2026 18:31:14 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;关于我&#34;&gt;关于我&lt;/h1&gt;&#xA;&lt;p&gt;你好！我是 Amos，这里是我的个人博客。&lt;/p&gt;&#xA;&lt;h2 id=&#34;技术&#34;&gt;技术&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;后端开发&lt;/li&gt;&#xA;&lt;li&gt;关注新技术&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;生活&#34;&gt;生活&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;读书&lt;/li&gt;&#xA;&lt;li&gt;思考&lt;/li&gt;&#xA;&lt;li&gt;记录&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;欢迎交流！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
