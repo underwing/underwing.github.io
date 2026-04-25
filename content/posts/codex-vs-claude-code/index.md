@@ -1,11 +1,11 @@
-+++
-title = "Codex vs Claude Code：AI 编程助手全面对比"
-date = "2026-04-07T00:00:00+08:00"
-author = "Amos"
-tags = ["AI", "工具对比", "开发效率"]
-description = "OpenAI Codex 和 Claude Code 的全面对比：从架构、性能、定价、安全等维度分析两款 AI 编程助手的优劣。"
-readingTime = true
-+++
+---
+title: "Codex vs Claude Code：AI 编程助手全面对比"
+date: "2026-04-07T00:00:00+08:00"
+author: "Amos"
+tags: ["AI", "工具对比", "开发效率"]
+description: "OpenAI Codex 和 Claude Code 的全面对比：从架构、性能、定价、安全等维度分析两款 AI 编程助手的优劣。"
+readingTime: true
+---
 
 ## 概述
 
@@ -292,3 +292,6 @@ Codex 在命令行任务、Shell 脚本、服务器管理方面表现更好。
 - **开源维护者**: Codex（批量 PR 评审） + Claude Code（复杂 issue 调试）
 
 两者都是顶级工具，选择取决于你的**工作流模式**（同步 vs 异步）而非单纯比较"哪个更强"。
+
+-----
+

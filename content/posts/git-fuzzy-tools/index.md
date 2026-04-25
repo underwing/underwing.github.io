@@ -1,11 +1,11 @@
-+++
-title = "Git 命令行文件选择工具"
-date = "2026-02-23T00:00:00+08:00"
-author = "Amos"
-tags = ["Git", "CLI", "效率工具"]
-description = "fzf、fzy、git-fuzzy 等交互式文件选择工具的使用指南，让 Git 命令行操作更高效。"
-readingTime = true
-+++
+---
+title: "Git 命令行文件选择工具"
+date: "2026-02-23T00:00:00+08:00"
+author: "Amos"
+tags: ["Git", "CLI", "效率工具"]
+description: "fzf、fzy、git-fuzzy 等交互式文件选择工具的使用指南，让 Git 命令行操作更高效。"
+readingTime: true
+---
 
 ## 概述
 

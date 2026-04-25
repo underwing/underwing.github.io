@@ -1,11 +1,11 @@
-+++
-title = "macOS 更换 Homebrew 源"
-date = "2026-02-14T00:00:00+08:00"
-author = "Amos"
-tags = ["macOS", "Homebrew", "开发环境"]
-description = "macOS 更换 Homebrew 源为国内镜像的完整指南，包含中科大源和清华源两种方案。"
-readingTime = true
-+++
+---
+title: "macOS 更换 Homebrew 源"
+date: "2026-02-14T00:00:00+08:00"
+author: "Amos"
+tags: ["macOS", "Homebrew", "开发环境"]
+description: "macOS 更换 Homebrew 源为国内镜像的完整指南，包含中科大源和清华源两种方案。"
+readingTime: true
+---
 
 ## 更换为中科大源
 
