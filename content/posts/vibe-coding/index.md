@@ -3,7 +3,7 @@ title = "Vibe Coding"
 date = "2026-04-10T00:00:00+08:00"
 author = "Amos"
 tags = ["AI", "编程范式"]
-description = "Vibe Coding 是一种新兴的开发范式，核心在于不再亲手编写一行行代码，而是通过与 AI 交流感觉和意图来开发软件。"
+description = "Vibe Coding 氛围编程：与 AI 交流「感觉」和「意图」来开发软件的新范式。"
 readingTime = true
 +++
 
