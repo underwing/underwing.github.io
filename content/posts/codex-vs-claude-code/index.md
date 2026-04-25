@@ -7,12 +7,6 @@ description = "OpenAI Codex 和 Claude Code 的全面对比：从架构、性能
 readingTime = true
 +++
 
-**主题：** AI 编程助手 / 开发工具对比
-**日期：** 2026-04-07
-**标签：** #AI #Codex #ClaudeCode #开发效率
-
----
-
 ## 概述
 
 2025-2026 年，OpenAI 和 Anthropic 先后推出了面向开发者的 AI 编程助手：**OpenAI Codex** 和 **Claude Code**。两者都可以自主完成编码任务，但采用了截然不同的架构设计和工作模式。
